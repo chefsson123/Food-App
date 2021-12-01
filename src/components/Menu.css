@@ -1,0 +1,28 @@
+.menu {
+
+  background-color: #e0e0e0;
+
+  width: 100%;
+padding: 7rem 0 10rem 0;
+
+}
+
+
+
+
+
+hr {
+  border: 0;
+  margin: 5rem auto 0 auto;
+  max-width: 30%;
+  background-position: 50%;
+  box-sizing: border-box;
+  height: 6px;
+  background-image: radial-gradient(
+    closest-side,
+    rgb(243, 239, 8),
+    transparent);
+  position: relative;
+  
+}
+
